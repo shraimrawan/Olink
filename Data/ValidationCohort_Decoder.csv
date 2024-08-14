@@ -1,0 +1,97 @@
+﻿OlinkID,SampleID,PatientID,Timepoint,Substrate
+S01,P-39,Pro-003,D28,Plasma
+S02,P-36,Pro-006,D21,Plasma
+S03,S-21,Pro-003,D10,Serum
+S04,S-18,Pro-004,M3,Serum
+S05,P-19,Pro-001,D10,Plasma
+S06,P-24,Pro-006,D10,Plasma
+S07,P-35,Pro-005,D21,Plasma
+S08,S-1,Pro-001,pre-infusion,Serum
+S09,P-21,Pro-003,D10,Plasma
+S10,P-44,Pro-002,M2,Plasma
+S11,P-40,Pro-004,D28,Plasma
+S12,Sample control,,,Plasma
+S13,Sample control,,,Plasma
+S14,Sample control,,,Plasma
+S15,S-39,Pro-003,D28,Serum
+S16,P-32,Pro-002,D21,Plasma
+S17,S-24,Pro-006,D10,Serum
+S18,S-19,Pro-001,D10,Serum
+S19,S-34,Pro-004,D21,Serum
+S20,S-38,Pro-002,D28,Serum
+S21,S-25,Pro-001,D14,Serum
+S22,S-28,Pro-004,D14,Serum
+S23,S-9,Pro-003,D3,Serum
+S24,Sample control,,,Plasma
+S25,P-7,Pro-001,D3,Plasma
+S26,S-5,Pro-005,pre-infusion,Serum
+S27,P-30,Pro-006,D14,Plasma
+S28,P-28,Pro-004,D14,Plasma
+S29,P-26,Pro-002,D14,Plasma
+S30,S-40,Pro-004,D28,Serum
+S31,S-13,Pro-001,D7,Serum
+S32,S-2,Pro-002,pre-infusion,Serum
+S33,P-17,Pro-005,D7,Plasma
+S34,S-33,Pro-003,D21,Serum
+S35,S-37,Pro-001,D28,Serum
+S36,Negative control,,,
+S37,S-14,Pro-002,M4,Serum
+S38,P-1,Pro-001,pre-infusion,Plasma
+S39,S-22,Pro-004,D10,Serum
+S40,S-8,Pro-002,D3,Serum
+S41,P-9,Pro-003,D3,Plasma
+S42,S-27,Pro-003,D14,Serum
+S43,Sample control,,,
+S44,P-22,Pro-004,D10,Plasma
+S45,P-8,Pro-002,D3,Plasma
+S46,P-18,Pro-004,M3,Plasma
+S47,S-23,Pro-005,D10,Serum
+S48,Negative control,,,
+S49,P-5,Pro-005,pre-infusion,Plasma
+S50,P-33,Pro-003,D21,Plasma
+S51,Sample control,,,Plasma
+S52,S-30,Pro-006,D14,Serum
+S53,S-7,Pro-001,D3,Serum
+S54,P-4,Pro-004,pre-infusion,Plasma
+S55,P-16,Pro-004,D7,Plasma
+S56,Sample control,,,
+S57,S-42,Pro-006,D28,Serum
+S58,P-6,Pro-006,pre-infusion,Plasma
+S59,S-3,Pro-003,pre-infusion,Serum
+S60,Negative control,,,
+S61,S-32,Pro-002,D21,Serum
+S62,S-15,Pro-003,D7,Serum
+S63,P-29,Pro-005,D14,Plasma
+S64,P-23,Pro-005,D10,Plasma
+S65,P-20,Pro-002,D10,Plasma
+S66,Sample control,,,
+S67,P-25,Pro-001,D14,Plasma
+S68,S-44,Pro-002,M2,Serum
+S69,P-14,Pro-002,M4,Plasma
+S70,S-12,Pro-002,M3,Serum
+S71,S-26,Pro-002,D14,Serum
+S72,interplate control,,,
+S73,P-15,Pro-003,D7,Plasma
+S74,P-43,Pro-001,M3,Plasma
+S75,P-42,Pro-006,D28,Plasma
+S76,P-12,Pro-002,M3,Plasma
+S77,S-17,Pro-005,D7,Serum
+S78,S-16,Pro-004,D7,Serum
+S79,Sample control,,,Plasma
+S80,S-29,Pro-005,D14,Serum
+S81,Sample control,,,Plasma
+S82,P-2,Pro-002,pre-infusion,Plasma
+S83,S-35,Pro-005,D21,Serum
+S84,interplate control,,,
+S85,P-27,Pro-003,D14,Plasma
+S86,P-37,Pro-001,D28,Plasma
+S87,S-43,Pro-001,M3,Serum
+S88,S-6,Pro-006,pre-infusion,Serum
+S89,S-36,Pro-006,D21,Serum
+S90,P-34,Pro-004,D21,Plasma
+S91,P-38,Pro-002,D28,Plasma
+S92,S-20,Pro-002,D10,Serum
+S93,S-4,Pro-004,pre-infusion,Serum
+S94,P-13,Pro-001,D7,Plasma
+S95,P-3,Pro-003,pre-infusion,Plasma
+S96,interplate control,,,
