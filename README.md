@@ -1,5 +1,6 @@
-# Olink
-Transforming Olink plasma to serum protein values
+# A Method for Comparing Proteins Measured in Serum and Plasma by Proximity Extension Assay 
+
+Transforming Olink(R) plasma to serum protein values
 
 ## Description of Scripts 
 Model_development.R: contains code describing the model building and testing for proteins 
